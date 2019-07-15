@@ -1,7 +1,7 @@
-### Big_Data_Processing
+# Big_Data_Processing
 ***Apache Kafka,  Apache Spark Streaming and MongoDB form a perfect trio for streaming to storing and analysing big data***.
 
-### General Overview
+## General Overview
    - Here is a simple project that will run through the basics of all three, as well as form a architectural link!
    - ***Operating system - Linux, Ubuntu (64 bit)***
 
@@ -17,7 +17,7 @@ Below given flow daigram will increase your undestanding -
 https://github.com/graphito0/Big_Data_Processing/issues/1#issue-467930540 .
 
 
-### Installation
+## Installation
 
 1. MongoDB - https://docs.mongodb.com/manual/administration/install-community/ for mongodb
 
@@ -39,13 +39,13 @@ https://github.com/graphito0/Big_Data_Processing/issues/1#issue-467930540 .
     - https://medium.com/@GalarnykMichael/install-spark-on-ubuntu-pyspark-231c45677de0 for installing pyspark Spark stream on Ubuntu
 
 
-### Files
+## Files
 
 - The Specification file consists description of the project.
 - The Tasks file consists of streaming, producing events and analysing tasks.
 - The General Fixng files will help you to overcome problems occuring with kafka.
 
-### References
+## References
 
 1. https://docs.mongodb.com/manual/administration/install-community/
 2. https://kafka.apache.org/quickstart
